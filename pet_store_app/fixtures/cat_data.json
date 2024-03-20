@@ -1,0 +1,13 @@
+[
+{
+  "model": "pet_store_app.cat",
+  "pk": 1,
+  "fields": {
+    "breed": "Tabby",
+    "age": 2,
+    "vaccinated": true,
+    "description": "Garfield is a good cat",
+    "name": "Garfield"
+  }
+}
+]

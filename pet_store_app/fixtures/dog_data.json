@@ -1,0 +1,24 @@
+[
+{
+  "model": "pet_store_app.dog",
+  "pk": 1,
+  "fields": {
+    "breed": "Husky",
+    "age": 15,
+    "vaccinated": true,
+    "description": "Loki is a 14 year old Husky that loves pets",
+    "name": "Loki"
+  }
+},
+{
+  "model": "pet_store_app.dog",
+  "pk": 2,
+  "fields": {
+    "breed": "Golden Retriever",
+    "age": 13,
+    "vaccinated": true,
+    "description": "Neeley is a red golden retriever that is super friendly",
+    "name": "Neeley"
+  }
+}
+]

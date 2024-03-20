@@ -1,0 +1,29 @@
+[
+{
+  "model": "pet_store_app.owner",
+  "pk": 1,
+  "fields": {
+    "name": "Poppy Flowers",
+    "age": 27,
+    "number_of_pets": 3
+  }
+},
+{
+  "model": "pet_store_app.owner",
+  "pk": 2,
+  "fields": {
+    "name": "Crystal Jobe",
+    "age": 30,
+    "number_of_pets": 4
+  }
+},
+{
+  "model": "pet_store_app.owner",
+  "pk": 3,
+  "fields": {
+    "name": "Hunter",
+    "age": 32,
+    "number_of_pets": 2
+  }
+}
+]
